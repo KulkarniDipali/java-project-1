@@ -1,2 +1,2 @@
-# java-project-1
+# java-project
 The project is about a simple calculator....
